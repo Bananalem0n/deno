@@ -1,4 +1,3 @@
-// deno-lint-ignore-file
 import express from "npm:express@4.21.1";
 import "jsr:@std/dotenv/load";
 
